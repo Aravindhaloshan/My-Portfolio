@@ -14,8 +14,6 @@ Welcome to my portfolio website repository! This website showcases my skills, pr
 ## Technologies Used
 - **HTML/CSS:** Used for structuring and styling the website.
 - **JavaScript:** Implemented interactive elements and functionality.
-- **React.js:** Built the website using React components for a dynamic user experience.
-- **Bootstrap:** Utilized Bootstrap framework for responsive design and layout.
 - **GitHub:** Hosted the code repository and utilized GitHub Pages for deployment.
 
 ## Installation
