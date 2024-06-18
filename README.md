@@ -20,6 +20,7 @@ Welcome to my portfolio website repository! This website showcases my skills, pr
 
 ## Installation
 1. Clone this repository to your local machine:
+      ```bash
    https://github.com/Aravindhaloshan/My-Portfolio.git
 2. Navigate to the project directory:
       ```bash
